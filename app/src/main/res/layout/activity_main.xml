@@ -23,4 +23,13 @@
         tools:layout_editor_absoluteX="31dp"
         tools:layout_editor_absoluteY="16dp" />
 
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="129dp" />
+
 </android.support.constraint.ConstraintLayout>
